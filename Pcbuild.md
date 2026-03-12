@@ -1,43 +1,40 @@
-# Computer Build Proposal (Budget up to 60,000 UAH)
+# 💻 Збірка комп'ютера до 60 000 грн
 
-## PC Components
+## Комплектуючі
 
-| Component | Model | Price | Link | Photo |
-|---|---|---|---|---|
-| CPU | AMD Ryzen 5 7600 | 10500 UAH | [Product Link](https://rozetka.com.ua/ua/amd-ryzen-5-7600/p364829343/) | ![](https://content2.rozetka.com.ua/goods/images/big/302623620.jpg) |
-| GPU | MSI GeForce RTX 4060 8GB | 15000 UAH | [Product Link](https://rozetka.com.ua/ua/msi-rtx-4060/p371124990/) | ![](https://content2.rozetka.com.ua/goods/images/big/328821770.jpg) |
-| RAM | Kingston Fury Beast DDR5 32GB | 5800 UAH | [Product Link](https://rozetka.com.ua/ua/kingston-fury-ddr5-32gb/p372190120/) | ![](https://content2.rozetka.com.ua/goods/images/big/329517398.jpg) |
-| SSD | Kingston NV2 1TB NVMe | 2600 UAH | [Product Link](https://rozetka.com.ua/ua/kingston-nv2-1tb/p351094272/) | ![](https://content2.rozetka.com.ua/goods/images/big/302345991.jpg) |
-| Motherboard | MSI PRO B650M-B | 4800 UAH | [Product Link](https://rozetka.com.ua/ua/msi-pro-b650m-b/p380201400/) | ![](https://content2.rozetka.com.ua/goods/images/big/330221921.jpg) |
-| PSU | Chieftec 700W 80+ Bronze | 2900 UAH | [Product Link](https://rozetka.com.ua/ua/chieftec-700w/p291320711/) | ![](https://content2.rozetka.com.ua/goods/images/big/248912115.jpg) |
-| Case | Deepcool Matrexx 55 | 2300 UAH | [Product Link](https://rozetka.com.ua/ua/deepcool-matrexx-55/p242001512/) | ![](https://content2.rozetka.com.ua/goods/images/big/202194183.jpg) |
-
----
-
-## Monitor
-
-| Device | Model | Price | Link | Photo |
-|---|---|---|---|---|
-| Monitor | AOC 24G2SP 24" 165Hz IPS | 7200 UAH | [Product Link](https://rozetka.com.ua/ua/aoc-24g2sp/p348127229/) | ![](https://content2.rozetka.com.ua/goods/images/big/299451001.jpg) |
+| Компонент | Фото | Посилання | Ціна |
+|---|---|---|---|
+| Процесор — AMD Ryzen 5 7400F | ![CPU](https://content2.rozetka.com.ua/goods/images/big/395354686.jpg) | https://hard.rozetka.com.ua/ua/514053929/p514053929/ | ~6000 грн |
+| Материнська плата — ASUS PRIME A620M-K | ![Motherboard](https://content2.rozetka.com.ua/goods/images/big/362053631.jpg) | https://hard.rozetka.com.ua/ua/492577199/p492577199/ | ~3900 грн |
+| Оперативна пам'ять — Kingston Fury Beast DDR5 32GB 5600MHz | ![RAM](https://content2.rozetka.com.ua/goods/images/big/299170686.jpg) | https://rozetka.com.ua/ua/kingston_kf556c40bbk2_32/p347030088/ | ~5200 грн |
+| Відеокарта — GeForce RTX 5060 8GB | ![GPU](https://content2.rozetka.com.ua/goods/images/big/399172610.jpg) | https://rozetka.com.ua/ua/search/?text=RTX%205060%208GB | ~18000 грн |
+| SSD — Samsung 980 NVMe M.2 500GB | ![SSD](https://content2.rozetka.com.ua/goods/images/big/190413179.jpg) | https://rozetka.com.ua/ua/samsung_mz_v8v500bw/p | ~1800 грн |
+| Блок живлення — Chieftec Proton 600W | ![PSU](https://content2.rozetka.com.ua/goods/images/big/187744632.jpg) | https://rozetka.com.ua/ua/chieftec_bdf_600s/p | ~1900 грн |
+| Корпус — 1stPlayer RT5 Black | ![Case](https://content2.rozetka.com.ua/goods/images/big/323327418.jpg) | https://rozetka.com.ua/ua/1stplayer_rt5/p | ~1800 грн |
+| Додаткові вентилятори — 3×120mm | ![Fan](https://content2.rozetka.com.ua/goods/images/big/224862858.jpg) | https://rozetka.com.ua/ua/search/?text=120mm%20case%20fan | ~1050 грн |
 
 ---
 
-## Peripherals
+## 💰 Загальна вартість
 
-| Device | Model | Price | Link | Photo |
-|---|---|---|---|---|
-| Mouse | Logitech G102 Lightsync | 1000 UAH | [Product Link](https://rozetka.com.ua/ua/logitech-g102/p200019998/) | ![](https://content2.rozetka.com.ua/goods/images/big/196437712.jpg) |
-| Keyboard | Redragon Kumara K552 | 1600 UAH | [Product Link](https://rozetka.com.ua/ua/redragon-k552/p225673399/) | ![](https://content2.rozetka.com.ua/goods/images/big/213771312.jpg) |
+≈ 39 650 грн
 
 ---
 
-## Total Price
+## 📌 Опис
 
-| Category | Price |
-|---|---|
-PC | 43900 UAH |
-Monitor | 7200 UAH |
-Mouse | 1000 UAH |
-Keyboard | 1600 UAH |
+Комп’ютер зібраний на платформі AM5.
 
-**Total: ≈ 59,700 UAH**
+Основні характеристики:
+
+- AMD Ryzen 5 7400F — 6 ядер / 12 потоків  
+- 32 GB DDR5 5600 MHz  
+- RTX 5060 8GB  
+- NVMe SSD 500GB (3000+ MB/s)  
+- Блок живлення 600W
+
+Підходить для:
+- сучасних ігор  
+- навчання  
+- програмування  
+- роботи з програмами.
