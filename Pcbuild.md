@@ -4,8 +4,8 @@
 
 | Компонент | Фото | Посилання | Ціна |
 |---|---|---|---|
-| Процесор — AMD Ryzen 5 7400F | ![CPU](https://content2.rozetka.com.ua/goods/images/big/395354686.jp) | https://hard.rozetka.com.ua/ua/479396889/p479396889// | ~6000 грн |
-| Материнська плата — ASUS PRIME A620M-K | ![Motherboard](https://content2.rozetka.com.ua/goods/images/big/362053631.jpg) | https://hard.rozetka.com.ua/ua/492577199/p492577199/ | ~3900 грн |
+| Процесор — AMD Ryzen 5 7400F | ![alt](![alt](https://blog.moyo.ua/wp-content/uploads/2025/10/1920h1080_5847-1024x576.jpg) | https://hard.rozetka.com.ua/ua/479396889/p479396889// | ~6000 грн |
+| Материнська плата — ASUS PRIME A620M-K | ![Motherboard](https://content2.rozetka.com.ua/goods/images/big/362053631.jpg) | https://hard.rozetka.com.ua/ua/asus-prime-a620m-k/p401231292/ | ~3900 грн |
 | Оперативна пам'ять — Kingston Fury Beast DDR5 32GB 5600MHz | ![RAM](https://content2.rozetka.com.ua/goods/images/big/299170686.jpg) | https://rozetka.com.ua/ua/kingston_kf556c40bbk2_32/p347030088/ | ~5200 грн |
 | Відеокарта — GeForce RTX 5060 8GB | ![GPU](https://content2.rozetka.com.ua/goods/images/big/399172610.jpg) | https://rozetka.com.ua/ua/search/?text=RTX%205060%208GB | ~18000 грн |
 | SSD — Samsung 980 NVMe M.2 500GB | ![SSD](https://content2.rozetka.com.ua/goods/images/big/190413179.jpg) | https://rozetka.com.ua/ua/samsung_mz_v8v500bw/p | ~1800 грн |
